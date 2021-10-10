@@ -257,6 +257,8 @@ https://medium.com/@subhammisra45/llmnr-poisoning-and-relay-5477949b7bef
 
 https://www.hackingarticles.in/get-reverse-shell-via-windows-one-liner/
 
+https://dunnesec.wordpress.com/category/tools/covert_tcp/covert_tcp-file-transfer-for-linux/
+
 --------------------------------------------
 ### **Web Scanners**
 
